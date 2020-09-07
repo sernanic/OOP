@@ -47,7 +47,7 @@ public class DataAnalyzer {
     }
     public static void main(String[] args) {
         new DataAnalyzer();
-        insertNumberToList("sample3.txt");
+        insertNumberToList("sample4.txt");
         System.out.println(list);
         int minValue = average();
         System.out.println(minValue);
